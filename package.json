@@ -1,0 +1,24 @@
+{
+  "name": "treinamento-pesado",
+  "version": "1.0.0",
+  "description": "site-de-treino",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoDdSilva/HERITAGE-app.git"
+  },
+  "keywords": [
+    "\"web\"",
+    "\"frontend\"",
+    "\"javascript\""
+  ],
+  "author": "Eduardo-Duarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoDdSilva/HERITAGE-app/issues"
+  },
+  "homepage": "https://github.com/EduardoDdSilva/HERITAGE-app#readme"
+}
